@@ -25,6 +25,7 @@ source-repository head
 
 library
   exposed-modules:
+      Guard
       Lib
   other-modules:
       Paths_hello_world
