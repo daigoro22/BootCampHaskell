@@ -37,6 +37,7 @@ library
 executable hello-world-exe
   main-is: Main.hs
   other-modules:
+      LowerOrUpperByIndex
       Paths_hello_world
   hs-source-dirs:
       app
